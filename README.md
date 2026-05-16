@@ -9,6 +9,8 @@ Premium static landing page for TOSHU Studio, an automotive video content agency
 - High-end dark theme aesthetic with custom smooth scrolling, intersection observers for scroll animations.
 - **GoHighLevel (GHL) Calendar Integration:** Embedded directly for automated audit booking.
 - **Wistia Video Preparation:** Built-in CSS architecture in `.hero-video-card` to support 16:9 Wistia video embeds seamlessly.
+- **Social Integration:** Live social links for Instagram and LinkedIn, plus a redirect to the main Framer-built website.
+- **Favicon:** Custom branding set using `star-logo.png`.
 
 ## Local Development & Preview
 To run the website locally and preview the animations and layout:
